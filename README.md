@@ -20,4 +20,4 @@ Camera  | 16 MP, 2150 x 1440 pixels, laser focus, dual flash LED
 Copyright 2016 - The LineageOS Project.
 
 ![Moto Z Play](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-play-2.jpg "Moto Z Play")
-LOS 20 is an attempt, not working yet.
+
